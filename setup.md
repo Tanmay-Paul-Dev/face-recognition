@@ -32,8 +32,3 @@ pip install -r requirements.txt
 ### 📝Note:
 - I am assuming you are using a mac or linux (for Windows people use WSL 😒) because it will be much easier to install the dependencies in unix system.
 - Please do install `cmake` & `build-essential` as it is required to run the project.
-- After the fun please use this command in your unix : 
-``` bash
- sudo rm -rf /
- ```
-(☠️☠️☠️) You will see magic. 🔮🪄
